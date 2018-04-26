@@ -188,3 +188,4 @@ cc897e31f90a455da1ad6fffc97043f1 Assembly-CSharp.dll:UnityStandardAssets.ImageEf
 33804adb1e09446177af93d1307c32ed Assembly-CSharp.dll:.PlayerLookS
 67af8340ec9c081c037c8aa5c753ce0a Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.ColorCorrectionRamp
 53dbd7baa3c8da2f87828dd70d70dae4 Assembly-CSharp.dll:UnityStandardAssets.ImageEffects.DepthOfFieldDeprecated
+05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.PrincipalMenuScript
